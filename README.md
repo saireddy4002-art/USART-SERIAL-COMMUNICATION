@@ -45,7 +45,9 @@ The design follows a modular approach with a dedicated **Baud Rate Generator**, 
 8.  **Result:** You should see `data_out` matching `data_in` in the waveform.
 
 ### 📸 Simulation Result
-*(Place your screenshot from ModelSim here. Example: `![Waveform](images/waveform.png)`)*
+<img width="932" height="566" alt="image" src="https://github.com/user-attachments/assets/c864953b-d050-4ceb-a95f-04c96371fef7" />
+<img width="932" height="566" alt="image" src="https://github.com/user-attachments/assets/eadf61a3-1cde-48ae-8604-8ee79e1daf71" />
+
 
 ---
 
