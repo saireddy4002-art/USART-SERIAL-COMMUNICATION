@@ -1,0 +1,29 @@
+D:/projects/usart/baud_rate_gen.v {1 {vlog -work work -stats=none D:/projects/usart/baud_rate_gen.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module baud_rate_gen
+
+Top level modules:
+	baud_rate_gen
+
+} {} {}} D:/projects/usart/uart_rx.v {1 {vlog -work work -stats=none D:/projects/usart/uart_rx.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_rx
+
+Top level modules:
+	uart_rx
+
+} {} {}} D:/projects/usart/uart_tb.v {1 {vlog -work work -stats=none D:/projects/usart/uart_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_tb
+
+Top level modules:
+	uart_tb
+
+} {} {}} D:/projects/usart/uart_tx.v {1 {vlog -work work -stats=none D:/projects/usart/uart_tx.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_tx
+
+Top level modules:
+	uart_tx
+
+} {} {}}
